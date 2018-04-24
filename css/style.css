@@ -1,0 +1,35 @@
+body{
+  background-color: lightgrey;
+  font-family: 'Roboto Mono', monospace;
+}
+hr{
+  border: 2px solid purple;
+  left: 0vw;
+  position: absolute;
+  width: 100px;
+}
+
+section{
+  width: 80vw;
+  margin: 5% 10%;
+}
+
+div.retrato img{
+  height: 80%;
+  width: 100%;
+}
+
+.retrato{
+  border: 1px solid pink;
+  display: inline-block;
+  height: 300px;
+  margin-left: 10%;
+  width: 20%;
+}
+
+div h4 {
+  text-align: right;
+  color: white;
+  position: relative;
+  bottom: 20%;
+}
